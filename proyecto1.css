@@ -48,3 +48,14 @@ section{
     width: 700px;
     margin: 50px 50px;
 }
+#titulopro{
+    color: #efca38;
+    font-size: 60px;
+    padding: 20px;
+}
+#po, #resultados, #funcionamiento{
+    color: #efca38;
+    font-size: 60px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
