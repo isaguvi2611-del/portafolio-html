@@ -53,14 +53,50 @@ body {
     color:rgb(255, 255, 255)
 }
 #fotomia img{
-    border-radius: 20%;
+    grid-template-rows: 2px;
+    margin: 100px 480px;
+    border-radius: 15%;
     border-image: auto;
-    height: 300px;
-    justify-content: center;
+    height: 400px;
 }
-#cuadro{
+#secciones{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     gap: 30px;
+}
+#cuadro{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    height: 300px;
+    width: 780px;
+    flex-direction: column;
+    justify-content: center;
+    margin: 120px 00px;
+    border-radius: 10%;
+    gap: 30px;
+}
+#gatitorama img{
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20%;
+    height: 300px;
+    margin: 120px 50px;
+}
+#title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: rgb(224, 46, 197);
+    text-align: center;
+}
+#text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 0px 50px;
+}
+#gato3 {
+    grid-template-rows: 2px;
+    border-radius: 20%;
+    height: 200px;
 }
