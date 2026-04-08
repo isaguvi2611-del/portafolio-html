@@ -1,0 +1,106 @@
+body{
+    background-color: #EF38EF
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 110px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border:90px}
+#fotomia{
+    border-radius: 10%;
+    height: 340px;
+    width: 490px;
+    justify-content: center;
+    gap: 30px;
+    margin: 60px 40px 160px 220px;
+}
+section{
+    display: flex;
+    gap: 20px;
+}
+#gato{
+    display: flex;
+    justify-self: right;
+    margin: 60px 0px 0px;
+    border-radius: 10%;
+    height: 140px;
+    width: 540px;
+    object-fit:cover;
+}
+#gato img{
+    border-radius: 8%;
+    height: 140px;
+    width: 540px;
+    object-fit:cover;
+}
+#gatito4{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    display: flex;
+    justify-self: right;
+    margin: 60px 0px 0px;
+    border-radius: 8%;
+    height: 140px;
+    width: 540px;
+    align-items: center;
+}
+#busqueda{
+    display: flex;
+    justify-content: left;
+    background-color: rgb(255, 255, 255);
+}
+#seccionsobremi{
+    display: flex;
+}
+#busqueda{
+    border-radius: 40px;
+    padding: 20px;
+    margin: 00px 0px 210px 170px;
+    height: 480px;
+    width: 180px;
+}
+#rectangulo{
+    display: flex;
+    position: relative;
+    justify-content: right;
+    border-radius: 40px;
+    margin: 00px 15px;
+    height: 500px;
+    width: 930px;
+    background-color: rgb(255, 255, 255);
+}
+#title{
+    justify-content: center;
+    text-decoration: none;
+    gap: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 49px;
+    margin: 190px 200px 0px 60px;
+    color:rgb(194, 42, 168)
+}
+#parrafo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+    margin: 160px 50px 10px 0px;
+    color:rgb(0, 0, 0)
+}
+#titoe{
+    font-size: 10px;
+    
+}
+#rectangulito{
+    border-radius: 40px;
+    margin: 00px 150px;
+    height: 520px;
+    width: 1900px;
+    background-color: rgb(255, 255, 255);
+}
+#rectangulite{
+    border-radius: 40px;
+    margin: 100px 150px;
+    height: 120px;
+    width: 1800px;
+    background-color: rgb(255, 255, 255);
+}

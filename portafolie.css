@@ -1,0 +1,66 @@
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 110px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border:100px}
+
+body {
+    background-color: #ef38b2;
+}
+
+#imagenes{
+    display: flex;
+    border-radius: 60%;
+    justify-content: center;
+    gap: 40px;
+}
+#imagenes img{
+    border-radius: 50%;
+    border-image: auto;
+}
+#imagenes img:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+#sobre-mi{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    gap: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color:rgb(255, 255, 255)
+}
+
+#proyectos{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    gap: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color:rgb(255, 255, 255)
+}
+#contacto{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    gap: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color:rgb(255, 255, 255)
+}
+#fotomia img{
+    border-radius: 20%;
+    border-image: auto;
+    height: 300px;
+    justify-content: center;
+}
+#cuadro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
