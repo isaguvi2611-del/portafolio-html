@@ -1,38 +1,38 @@
-🐱 Portafolio Personal!
+🌸 𝓟𝓸𝓻𝓽𝓪𝓯𝓸𝓵𝓲𝓸 𝓦𝓮𝓫 🌸
 
-¡Bienvenido a mi portafolio! Este proyecto es una vitrina personal diseñada con una estética colorida y dinamica. El objetivo principal fue crear una interfaz visualmente atractiva utilizando únicamente tecnologías frontend fundamentales.
+Este proyecto consiste en una página web colorida desarrollada con HTML y CSS, creada como un portafolio personal para compartir un poco sobre mí, mis proyectos y formas de contacto 💕
 
-🚀 Vista Previa
-El portafolio se divide en secciones clave que permiten conocerme, ver mi trabajo y contactarme de forma rápida:
+🏡 𝓟á𝓰𝓲𝓷𝓪 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓵
 
-    Sobre mí: Una breve introducción personal.
+En la página de inicio se pueden ver tres opciones principales:
+    🌷 Sobre mí
+    🌷 Proyectos
+    🌷 Contacto
 
-    Portafolio/Proyectos: Galería de trabajos destacados.
+Debajo de estas opciones hay un pequeño texto que describe lo que se puede encontrar en el portafolio ✨
 
-    Contacto: Enlaces directos a redes sociales y mensajería.
+🧸 𝓢𝓸𝓫𝓻𝓮 𝓶í
 
-🛠️ Tecnologías Utilizadas
-Para la construcción de este sitio se utilizaron:
+En esta sección encontrarás:
+    Una descripción personal 💗
+    Mis habilidades 🌟
+    Imágenes de cosas que me gustan 🎀
 
-    HTML5: Estructuración semántica de las secciones y contenedores de las tarjetas.
+🌈 𝓟𝓻𝓸𝔂𝓮𝓬𝓽𝓸𝓼
 
-    CSS3: * Flexbox / CSS Grid: Para lograr el diseño de rejilla responsivo y organizado.
+Aquí se muestra un proyecto desarrollado en Python 🐍, donde se explican sus funcionalidades y lo que hace de forma sencilla y clara ✨
 
-    Custom Properties (Variables): Para gestionar la paleta de colores vibrantes (rosa, azul, amarillo, verde, rojo).
+💌 𝓒𝓸𝓷𝓽𝓪𝓬𝓽𝓸
 
-    Border Radius & Shadows: Para dar ese aspecto de "burbuja" o tarjeta suave a los elementos.
+En esta parte se encuentran:
+    Mis redes sociales 🌸
 
-    Media Queries: Para asegurar que el diseño se vea perfecto en diferentes tamaños de pantalla.
+Un formulario para que las personas puedan escribir:
+    Nombre ✨
+    Email 📧
+    Mensaje 💭
 
-🎨 Características de Diseño
-    Paleta de Colores de Alto Contraste: Uso de colores saturados para diferenciar claramente cada sección de la navegación.
-
-    Iconografía y Stickers: Integración de ilustraciones de gatitos que añaden un toque lúdico y único a la marca personal.
-
-    Diseño Modular: Cada "Frame" funciona como un componente independiente, facilitando la escalabilidad del sitio.
-
-    Tipografía Bold: Uso de fuentes robustas en mayúsculas para mejorar la jerarquía visual y la legibilidad.
-
-
-✍️ Autor
-Isabelita x dios hija.
+🎨 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰í𝓪𝓼 𝓾𝓽𝓲𝓵𝓲𝔃𝓪𝓭𝓪𝓼
+    HTML 💕
+    CSS 🌷
+    Python 🐍
