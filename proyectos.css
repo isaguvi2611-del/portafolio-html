@@ -18,7 +18,7 @@ section{
     border-radius: 20%;
     height: 600px;
     width: 400px;
-    margin: 150px;
+    margin: 150px 230px 10px;
 }
 #p1 img{
     border-radius: 20%;
@@ -46,7 +46,7 @@ section{
     border-radius: 20%;
     height: 600px;
     width: 400px;
-    margin: 150px;
+    margin: 150px 0px;
 }
 #p2 img{
     border-radius: 20%;

@@ -48,6 +48,7 @@ section{
     margin: 40px 100px 0px;
     border-radius: 8%;
     height: 140px;
+    object-fit: cover;
     width: 390px;
     align-items: center;
 }
